@@ -24,6 +24,10 @@ Comandos utilizados:
 21. $ git commit -m "Agregando 1.txt en main y 2.txt en v0.2"
 22. $ git push --set-upstream origin v0.2
 23. $ git checkout main
+24. $ git merge v0.2
+25. $ git status
+26. $ git add .
+27. $ git commit -m "Haciendo merge"
 
 
 
