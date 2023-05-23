@@ -43,5 +43,23 @@ image.png
 
 34. $ git list
 
+Nombre compañero 1: Santiago Meneses
+Enlace github: https://github.com/SantiagoomC
+
+Nombre compañero 2: Esteban Garcia
+Enlace github: https://github.com/egarcia9543
+
+Nombre del compañero 3: Jeremmy Rojas
+Enlace github: https://github.com/J-Rojas29
+
+Nombre del compañero 4: Isabella Echeverri
+Enlace github: https://github.com/i-echeverri22
+
+Nombre del compañero 5: Michell Vera
+Enlace github: https://github.com/michell20
+
+
+
+
 
 
