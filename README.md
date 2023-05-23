@@ -8,3 +8,9 @@ Comandos utilizados:
 5. $ git add .
 6. $ git commit -m "commit inicial"
 7. $ git push
+8. $ touch privado.txt
+9. $ mkdir privada
+10. $ touch .gitignore
+11. $ git status
+12. $ git add .
+13. $ git commit -m "Ignorar archivos"
