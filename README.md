@@ -23,13 +23,25 @@ Comandos utilizados:
 20. $ git add .
 21. $ git commit -m "Agregando 1.txt en main y 2.txt en v0.2"
 22. $ git push --set-upstream origin v0.2
-23. $ git checkout main
-24. $ git merge v0.2
-25. $ git status
-26. $ git add .
-27. $ git commit -m "Haciendo merge"
+23. $ git checkout v0.2
+24. $ git status
+25. $ git add .
+26. $ git commit -m "Actualizando 1.txt en v0.2"
+27. $ git checkout main
+28. $ git merge v0.2
 
+Ramas con merge: main  (git branch --merged)
+Ramas sin merge: v0.2  (git branch --no-merged)
 
+29. git add .
+30. git commit -m "conflictos resueltos"
+31. $ git merge v0.2
+32. $ git branch -D v0.2
+33. $ git log --oneline --decorate --all --graph
+
+image.png
+
+34. $ git list
 
 
 
